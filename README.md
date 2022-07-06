@@ -1,6 +1,5 @@
 # zogori
-
-
+forked by https://github.com/kosy318/zogori
 
 ## Introduction
 
